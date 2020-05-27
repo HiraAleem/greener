@@ -1,0 +1,970 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bgimage{
+    background-image: url("image/or.jpg");
+    background-size: 100% 110%;
+    width: 100%;
+    height: 100vh;
+    
+
+}
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color:rgba(0, 0,0, 0.5) ;
+}
+
+
+.leftmenu{
+    width: 30%;
+    line-height: 80px;
+    float: left;
+    
+}
+
+
+.leftmenu h1{
+    margin-left:100px;
+
+}
+
+
+.leftmenu h1{
+    line-height: 100%;
+    font-family: 'lobster';
+    font-weight: bold;
+    color:rgb(71, 224, 71) ;
+    line-height: 100px;  
+
+}
+.rightmenu{
+    width: 70%;
+    height:100px ;
+    float: right;
+}
+.rightmenu ul{
+    margin-left: 210px;
+
+}
+.rightmenu ul li {
+    display: inline-block;
+    list-style: none;
+    font-size:15px ;
+    color:orange;
+    font-weight: bold;
+    line-height: 100px;
+    margin-left: 40px;
+    text-transform: uppercase;
+   text-decoration: none;
+   cursor: pointer;
+
+}
+
+.rightmenu ul li a:link{
+    display: inline-block;
+    list-style: none;
+    font-size:15px ;
+    color:orange;
+    font-weight: bold;
+    line-height: 100px;
+    margin-left: 40px;
+    text-transform: uppercase;
+   text-decoration: none;
+   cursor: pointer;
+
+}
+.rightmenu ul li a:link, a:visited{
+    text-decoration: none;
+    color:orange;
+    background-color: none;
+}
+#fl a:link {
+    
+    color:orange ;
+    
+}
+
+.rightmenu ul li a:link:hover {
+    text-decoration: underline;
+    color:orange;  
+    
+}
+
+    
+
+.text{
+    width: 100%;
+    margin-top:185px ;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+} 
+.text h4{
+    font-size: 14px;
+
+}
+.text h1{
+    font-size: 62px;
+    font-weight: bold;
+    margin: 14px 0px;
+}
+.text h3{
+    font-size: 12px;
+
+}
+/*.image1{
+    width: 30px;
+    height: 40px;
+}*/
+#buttonone{
+    background-color: greenyellow;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 40px;
+    width:150px ;
+    margin-top:25px ;
+    border: 3px solid white;
+
+}
+#buttontwo{
+    background-color: transparent;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height:40px ; 
+    border: 3px solid white;
+    width: 150px;
+    
+}
+.yellow{
+    height:400px;
+    background-color:white;
+}
+.story{
+    width:300px ;
+    height: 300px;
+    text-align: center;
+    padding: 0px 10px;
+    margin: 30px;
+    float: left;
+    
+   
+}
+.head h4{
+text-transform: uppercase;
+color: #101D2c;
+line-height: 0;
+font-family:'Teko'; 
+font-weight: 300;
+letter-spacing: 1px;
+}
+.head h1{
+     font-family: 'Niconne';
+     color: #c69963;
+
+}
+.image  .image1 {
+   
+    margin:0px 30px;
+    float: left;
+   
+
+}
+.yay .image2{
+   
+    width: 380px;
+    height: 360px;
+    margin:  0px 30px;
+    float: left; 
+    
+   
+}
+.a .image3{
+    width:100px;
+    height:100px;
+    float: left;
+    margin-top: 100px;
+   
+   
+}
+.bye{
+    height: 100px;
+   
+}
+.bye marquee{
+    font-family: 'Niconne';
+    color: #c69963 ;
+    font-size: 20px;
+    background-color: navy;
+    height: 50px;
+    line-height:50px ;
+    
+}
+b{
+    color: #c69963 ;  
+}
+.mm{
+    background-color: rgba(0, 0,0, 0.2);
+    height: 630px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+   
+    
+
+#form{
+  
+    width: 460px;
+    height :500px;
+    padding:0px 10px;
+    margin: 459px;
+    margin-top:10px ;
+   
+   
+   
+}
+.pink #milo{
+    font-size: 28px;
+    
+    
+}
+
+.writing{
+    font-size:13.5px ;
+}
+#textbox{
+    
+   
+    font-size: 20px;
+    padding: 0 0px;
+    margin: 5px;
+    
+}
+#textbox .bd{
+   height: 30px;
+   width:200px;
+   
+   
+   
+}
+#text{
+    
+   
+   font-size: 10px;
+    padding: 0 45px;
+    margin: 0px ;
+    
+}
+
+.red{
+    padding: 0px;
+    margin:10px ;
+}
+.red button{
+    width: 210px;
+    height:60px ;
+    border: 1 px solid red;
+    color: white;
+   border-color: red;
+    background-color: rgb(238, 95, 95);
+    font-size:21px ;
+    cursor: pointer;
+}
+.fir{
+    margin:0 173px ;
+}
+.thir{
+    width: 600px;
+    margin: 0px 10px;
+   
+}
+.four{
+    font-size: 10px;
+    margin: 30px 177px;
+  cursor: pointer;
+ 
+}
+.four #end a:link,a:visited{
+    color: orange;
+}
+
+#semi{
+    background-color:rgba(1, 1, 1,0.5);
+    height: 150px;
+    
+}
+.he{
+    margin: 0px 660px;
+    color: white;
+    width:100px;
+}
+.sm{
+  
+    width:330px ;
+    height:70px;
+    margin:10px 550px;
+   
+   
+}
+
+ 
+
+
+.fa{
+    color:black;
+
+}
+.sm ul li{
+    list-style: none;
+    margin: 0 10px;
+    padding: -0.5px;
+    display: inline-block;
+}
+.sm ul li a:link{
+    position: relative;
+    display: block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius:50%;
+    background-color:white;
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow:0px 7px 5px rgba(0,0,0, 0.5) ;
+    
+}
+
+
+.sm ul li a:hover{
+    transform: rotate(0deg) skew(0deg) translate(0,-10px);
+}
+#fish{
+    background-color:black;
+    height:200px ;
+    
+   
+    
+}
+#par1{
+    padding: 40px;
+    margin: 0 360px;
+    color: white;
+}
+#par2{
+    padding: 0px;
+    margin:0 360px;
+    width: 1000px;
+    color: white;
+   
+}
+#final{
+    float: left;
+    background-color: white;
+    font-family: 'Niconne';
+    color: #c69963;
+    border-radius:60% ;
+    border: none;
+    width: 40px;
+    height: 35px;
+    font-size: 25px;
+}
+.finally{
+    float:left;
+}
+ html body{
+    overflow-x: hidden;
+   
+}
+@media only screen and ( max-width:600px){
+    body{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+  body{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .bgimage{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+ .bgimage{
+      width: 200px;
+  }
+} 
+@media only screen and ( max-width:600px){
+    .menu{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .menu{
+      width: 200px;
+  }
+}
+
+@media only screen and ( max-width:600px){
+    .leftmenu{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .leftmenu{
+      width: 200px;
+  }
+}
+
+@media only screen and ( max-width:600px){
+    .rightmenu{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .rightmenu{
+      width: 200px;
+  }
+}
+
+@media only screen and ( max-width:600px){
+    .text{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .text{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #buttonone{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #buttonone{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #buttontwo{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #buttontwo{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    .yellow{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .yellow{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .story{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .story{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .head h4{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .head h4{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .head h1{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .head h1{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .image  .image1{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .image  .image1{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .yay .image2{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .yay .image2{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .a .image3{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .a .image3{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .bye{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .bye{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    .mm{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    .mm{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    #semi{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #semi{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #fish{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #fish{
+      width: 200px;
+  }
+}
+#ever{
+    
+    padding-left: 400px;
+    margin: 10px;
+}
+#sp{
+    
+    padding-left: 500px;
+    margin: 10px;
+}
+#pp{
+    
+    width:1100px;
+    padding-left: 80px;
+}
+
+#oo{
+   
+  height: 290px;
+  padding-left: 180px;
+  margin: 10px;
+    
+    
+}
+
+
+
+#ff{
+    float: left; 
+    margin: 0 10px;
+    text-align: center;
+    font-family: 'lobster';
+    color:rgb(20, 20, 211);
+    list-style: none;
+  
+}
+#fg{
+    float: left;
+    margin: 0 10px;
+    text-align: center;
+    font-family: 'lobster';
+    color: rgb(20, 20, 211) ;
+    list-style: none;
+
+}
+#fo{
+    float: left;
+    margin: 0 10px;
+    text-align: center;
+    font-family: 'lobster';
+    color: rgb(20, 20, 211) ;
+    list-style: none;
+}
+#fr{
+    float: left;
+    margin: 0 10px;
+    text-align: center;
+    font-family: 'lobster';
+    color: rgb(20, 20, 211) ;
+    list-style: none;
+}
+
+@media only screen and ( max-width:600px){
+    #ever{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #ever{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #sp{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #sp{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #pp{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #pp{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #oo{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #oo{
+      width: 200px;
+  }
+}
+@media only screen and ( max-width:600px){
+    #fg{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #fg{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    #ff{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #ff{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    #fo{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #fo{
+      width: 200px;
+  }
+}@media only screen and ( max-width:600px){
+    #fr{
+        width: 400px;
+    }
+}
+@media only screen and ( max-width:600px){
+    #fr{
+      width: 200px;
+  }
+}
+#d2{
+    padding-left: 450px;
+    margin: 10px;
+}
+.ig{
+   
+ padding-left: 400px;
+    margin: 10px;
+}
+#d3{
+    padding-left: 60px;
+    margin: 10px;
+}
+#oop{
+ 
+    height: 290px;
+    padding-left: 180px;
+    margin: 10px;
+      
+      
+  }
+  #opp{
+   
+       height: 290px;
+       padding-left: 180px;
+       margin: 10px;
+         
+         
+     }
+     #fh{
+        float: left;
+        margin: 0 10px;
+        text-align: center;
+        font-family: 'lobster';
+        color: #c69963 ;
+        list-style: none;
+       
+    }
+    #fp{
+        float: left;
+        margin: 0 10px;
+        text-align: center;
+        font-family: 'lobster';
+        color: #c69963 ;
+        list-style: none;
+        
+    }
+    #fy{
+        float: left;
+        margin: 0 10px;
+        text-align: center;
+        font-family: 'lobster';
+        color: #c69963 ;
+        list-style: none;
+       
+
+    }
+     #tt{
+        width: 300px;
+        height:200px;
+    }
+     #tr{
+        width: 300px;
+        height:200px;
+    }
+    #ty{
+        width: 300px;
+        height:200px;
+    }
+    @media only screen and ( max-width:600px){
+        #d2{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #d2{
+          width: 200px;
+      }
+    }
+ 
+    @media only screen and ( max-width:600px){
+        .ig{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        .ig{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #d3{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #d3{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #oop{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #oop{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #opp{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #opp{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #fh{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #fh{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #fp{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #fp{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #fy{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #fy{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #tt{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #tt{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #tr{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #tr{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #ty{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #ty{
+          width: 200px;
+      }
+    }
+    .gg{
+        padding-left: 450px;
+    margin: 10px;
+       
+    }
+    #dd3{
+        padding-left:350px;
+    margin: 10px;
+    }
+    .gh{
+        padding-left: 399px;
+    margin: 10px;
+       
+    }
+    #kk{
+        padding-left: 250px;
+    margin: 10px;
+    }
+    .gs{
+        padding-left: 415px;
+        margin: 10px;
+    }
+    .ggg{
+        padding-left: 445px;
+        margin: 10px;
+    }
+    @media only screen and ( max-width:600px){
+        .gg{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        .gg{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        #dd3{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #dd3{
+          width: 200px;
+      }
+    }@media only screen and ( max-width:600px){
+        .gh{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        .gh{
+          width: 200px;
+      }
+    }@media only screen and ( max-width:600px){
+        #kk{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        #kk{
+          width: 200px;
+      }
+    }@media only screen and ( max-width:600px){
+        .gs{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        .gs{
+          width: 200px;
+      }
+    }
+    @media only screen and ( max-width:600px){
+        .ggg{
+            width: 400px;
+        }
+    }
+    @media only screen and ( max-width:600px){
+        .ggg{
+          width: 200px;
+      }
+    }
